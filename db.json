@@ -1,0 +1,28 @@
+{
+  "cadastros": [
+    {
+      "id": "1fe1",
+      "name": "Marlon",
+      "email": "marlon25@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "d2cf",
+      "name": "Jorge",
+      "email": "jorge@gmail.com",
+      "password": "12356"
+    },
+    {
+      "id": "f2a7",
+      "name": "Marcos",
+      "email": "marcos26@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "193fbbf3602",
+      "name": "Renata",
+      "email": "re25@gmail.com",
+      "password": "1234"
+    }
+  ]
+}
